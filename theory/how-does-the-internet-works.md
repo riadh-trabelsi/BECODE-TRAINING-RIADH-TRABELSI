@@ -15,4 +15,3 @@ Une image ou une page Web peut être divisée en paquets. Une fois que tous les 
 Pour éviter que les paquets n'atteignent leur destination, les machines sont identifiées par une adresse IP. Les routeurs interceptent ces paquets et les envoient à la bonne destination pour éviter de les envoyer au mauvais appareil connecté au réseau.
 
 Internet redirige les paquets de données plusieurs fois, ajoutant ou supprimant des couches d'informations à chaque étape, garantissant ainsi une livraison précise jusqu'à leur destination.
-this theory file has been reviewed by Riadh Trabelsi
