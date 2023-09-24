@@ -1,4 +1,4 @@
-### internet c'est quoi ?
+### Internet c'est quoi ?
 
 #### Internet est un réseau de câbles souterrains.
 
@@ -21,3 +21,5 @@ Pour éviter que les paquets n'atteignent leur destination, les machines sont id
 Internet redirige les paquets de données plusieurs fois, ajoutant ou supprimant des couches d'informations à chaque étape, garantissant ainsi une livraison précise jusqu'à leur destination.
 
 ![internet](https://tse3.mm.bing.net/th?id=OIP.fpTD5CUT80C5QAWQy-v-pAHaFj&pid=Api&P=0&h=180)
+
+This theory file has been reviewed by Olha Slutska
