@@ -1,4 +1,6 @@
-Internet est un réseau de câbles souterrains.
+### Internet c'est quoi ?
+
+#### Internet est un réseau de câbles souterrains.
 
 Chaque PC est identifié par une adresse IP.
 
@@ -8,6 +10,8 @@ Le fournisseur d'accès Internet nous connecte à son serveur puis nous identifi
 
 Une fois identifié, il est possible de naviguer vers un serveur choisi, par exemple pour parcourir un site Internet.
 
+#### Un exemple pratique:
+
 Pour envoyer un e-mail, nous allons au service de messagerie, puis envoyons l'e-mail au destinataire. Le service de messagerie l'envoie au serveur et au fournisseur de services Internet, puis il est transmis au destinataire.
 
 Une image ou une page Web peut être divisée en paquets. Une fois que tous les paquets sont regroupés dans l'ordre d'origine, ils sont affichés.
@@ -15,3 +19,7 @@ Une image ou une page Web peut être divisée en paquets. Une fois que tous les 
 Pour éviter que les paquets n'atteignent leur destination, les machines sont identifiées par une adresse IP. Les routeurs interceptent ces paquets et les envoient à la bonne destination pour éviter de les envoyer au mauvais appareil connecté au réseau.
 
 Internet redirige les paquets de données plusieurs fois, ajoutant ou supprimant des couches d'informations à chaque étape, garantissant ainsi une livraison précise jusqu'à leur destination.
+
+![internet](https://tse3.mm.bing.net/th?id=OIP.fpTD5CUT80C5QAWQy-v-pAHaFj&pid=Api&P=0&h=180)
+
+This theory file has been reviewed by Olha Slutska
