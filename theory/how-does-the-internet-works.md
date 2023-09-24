@@ -1,4 +1,6 @@
-Internet est un réseau de câbles souterrains.
+### internet c'est quoi ?
+
+#### Internet est un réseau de câbles souterrains.
 
 Chaque PC est identifié par une adresse IP.
 
@@ -7,6 +9,8 @@ Les PC sont connectés via un modem, puis à un fournisseur de services Internet
 Le fournisseur d'accès Internet nous connecte à son serveur puis nous identifie.
 
 Une fois identifié, il est possible de naviguer vers un serveur choisi, par exemple pour parcourir un site Internet.
+
+#### Un exemple pratique:
 
 Pour envoyer un e-mail, nous allons au service de messagerie, puis envoyons l'e-mail au destinataire. Le service de messagerie l'envoie au serveur et au fournisseur de services Internet, puis il est transmis au destinataire.
 
